@@ -1,0 +1,3 @@
+cloud_pct.innerHTML=response.cloud_pcttemp.innerHTML=response.tempfeels_like.innerHTML=response.feels_likehumidity.innerHTML=response.humiditymin_temp.innerHTML=response.min_tempmax_temp.innerHTML=response.max_tempwind_speed.innerHTML
+=response.wind_speedwind_degrees.innerHTML=response.wind_degreessunrise.innerHTML=response.sunrisesunset.innerHTML=response.sunsetcloud_pct=response.cloud_pcttemp=response.tempfeels_like=response.feels_likehumidity=response.humidity
+min_temp=response.min_tempmax_temp=response.max_tempwind_speed=response.wind_speedwind_degrees=response.wind_degreessunrise=response.sunrisesunset=response.sunset
